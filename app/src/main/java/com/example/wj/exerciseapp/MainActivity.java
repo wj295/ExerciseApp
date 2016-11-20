@@ -2,6 +2,7 @@ package com.example.wj.exerciseapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,4 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Test 20161120
+    public void buttonClick(View view) {
+
+    }
 }
